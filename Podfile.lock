@@ -1,0 +1,16 @@
+PODS:
+  - NoMoreDeepLinkHandler (1.0.0)
+
+DEPENDENCIES:
+  - NoMoreDeepLinkHandler (from `.`)
+
+EXTERNAL SOURCES:
+  NoMoreDeepLinkHandler:
+    :path: "."
+
+SPEC CHECKSUMS:
+  NoMoreDeepLinkHandler: c718f0efe42e53fc1f803cb8ba35f6ca4afd8d80
+
+PODFILE CHECKSUM: 9a56857fc17c1f632a459ed6e4b2269ffaf7c59c
+
+COCOAPODS: 1.15.2
